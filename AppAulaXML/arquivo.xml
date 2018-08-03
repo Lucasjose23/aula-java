@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empresa>
+  <funcionario id="2">
+    <nome>Maria</nome>
+    <Sobrenome>Silva</Sobrenome>
+    <username>maria.Silva</username>
+    <salario>2000</salario>
+    <nome>José</nome>
+    <Sobrenome>Silva</Sobrenome>
+    <username>José.Silva</username>
+    <salario>3000</salario>
+  </funcionario>
+  <funcionario />
+</empresa>
